@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background: rgb(27, 39, 51);
+    color: rgb(240, 240, 240);
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.img_centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.list_left{
+    text-align: left;
+    list-style-position: inside;
+}  
+
+article{
+    background-color: rgb(240, 240, 240);
+    color: rgb(27, 39, 51);
+
+    text-align: center;
+    border: 1px solid;
+
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+
+    max-width: 1000px;
+}
+
+.artiarticle{
+    background-color: rgb(216, 20, 20);
+    color: rgb(27, 39, 51);
+
+    text-align: center;
+    border: 1px solid;
+
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+
+    max-width: 1000px;
+}
+
+
